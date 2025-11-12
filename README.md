@@ -4,17 +4,19 @@ I’m a <mark>**backend-focused developer**</mark> living between the terminal, 
 Currently diving into **Spring Boot**, **Flutter** and **Code Architecture**, trying to make every project a bit cleaner and more functional.
 
 >💡 Naturally curious, I love figuring out why things work — and turning ideas into something real...</br>
-even if it takes a few ˋgit commit -m "final-for-real"ˋ along the way 😅
+even if it takes a few _**git commit -m "final-final-for-real"**_ along the way 😅
 
 ***
 
-### Languages i work with:
+### 🌐 Languages and technologies i work with:
+
+<!-- LANGUAGES-->
 
 <img   
   align="left"
   alt="JAVA"
   title="JAVA"
-  width="35px"
+  width="30px"
   style="paadding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
@@ -26,5 +28,85 @@ even if it takes a few ˋgit commit -m "final-for-real"ˋ along the way 😅
   width="30px"
   style="paadding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg"
+/>
+
+
+<img
+  align="left"
+  alt="DART"
+  title="DART"
+  width="30px"
+  style="paadding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+          
+
+<!-- FRAMEWORKS -->
+
+<img
+  align="left"
+  alt="SPRING BOOT"
+  title="SPRING BOOT"
+  width="30px"
+  style="paadding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
+/>
+
+<img
+  align="left"
+  alt="FLUTTER"
+  title="FLUTTER"
+  width="30px"
+  style="paadding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"
+/>
+
+<!-- DATABASES -->
+
+<img
+  align="left"
+  alt="POSTGRESQL"
+  title="POSTGRESQL"
+  width="30px"
+  style="paadding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
+/>
+
+<img
+  align="left"
+  alt="MYSQL"
+  title="MYSQL"
+  width="30px"
+  style="paadding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+/>
+          
+<!-- OTHERS -->
+
+<img
+  align="left"
+  alt="GIT"
+  title="GIT"
+  width="30px"
+  style="paadding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
+
+<img
+  align="left"
+  alt="LINUX"
+  title="LINUX"
+  width="30px"
+  style="paadding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
+/>
+          
+<img
+  align="left"
+  alt="DOCKER"
+  title="DOCKER"
+  width="30px"
+  style="paadding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
 />
           
