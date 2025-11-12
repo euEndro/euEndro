@@ -38,8 +38,7 @@ even if it takes a few _**git commit -m "final-final-for-real"**_ along the way 
   width="30px"
   style="paadding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-          
+/>        
 
 <!-- FRAMEWORKS -->
 
@@ -110,3 +109,29 @@ even if it takes a few _**git commit -m "final-final-for-real"**_ along the way 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
 />
           
+<img
+  align="left"
+  alt="DBEAVER"
+  title="DBEAVER"
+  width="30px"
+  style="paadding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" 
+/>
+          
+<img
+  align="left"
+  alt="POSTMAN"
+  title="POSTMAN"
+  width="30px"
+  style="paadding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
+/>
+
+<img 
+  align="left"
+  alt="BASH"
+  title="BASH"
+  width="30px"
+  style="paadding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" 
+/>
