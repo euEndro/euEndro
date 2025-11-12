@@ -14,7 +14,17 @@ even if it takes a few ˋgit commit -m "final-for-real"ˋ along the way 😅
   align="left"
   alt="JAVA"
   title="JAVA"
+  width="35px"
+  style="paadding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+
+<img
+  align="left"
+  alt="DART"
+  title="DART"
   width="30px"
   style="paadding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg"
 />
+          
