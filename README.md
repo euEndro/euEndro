@@ -1,6 +1,6 @@
-# 👋 Hey there! 
+# <span style="color:orange">Andrew Doni</span>
 
-I’m a <mark>**backend-focused developer**</mark> living between the terminal, some commits, and a strong cup of coffee ☕<br>
+👋 Hey there! I’m a <mark>**backend-focused developer**</mark> living between the terminal, some commits, and a strong cup of coffee ☕<br>
 Currently diving into **Spring Boot**, **Flutter** and **Code Architecture**, trying to make every project a bit cleaner and more functional.
 
 >💡 Naturally curious, I love figuring out why things work — and turning ideas into something real...</br>
@@ -138,5 +138,8 @@ even if it takes a few _**git commit -m "final-final-for-real"**_ along the way 
 <br>
 
 ***
+<div align="center">
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=euEndro&theme=dark&border_radius=10&locale=pt&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=euEndro&theme=dark&border_radius=10&locale=pt&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+</div>
