@@ -126,7 +126,6 @@ even if it takes a few _**git commit -m "final-final-for-real"**_ along the way 
   style="paadding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
 />
-<br>
 
 <img 
   align="left"
@@ -136,6 +135,7 @@ even if it takes a few _**git commit -m "final-final-for-real"**_ along the way 
   style="paadding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" 
 />
+<br>
 
 ***
 
