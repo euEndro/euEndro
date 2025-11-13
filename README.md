@@ -2,6 +2,7 @@
   alt="ANDREW DONI"
   title="ANDREW DONI"
   width="300px"
+  style="paadding-right: 50px;"
   src="https://private-user-images.githubusercontent.com/235644612/514051574-098bf99b-922d-4cec-aff1-05119237fcf8.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjMwNjA4NjYsIm5iZiI6MTc2MzA2MDU2NiwicGF0aCI6Ii8yMzU2NDQ2MTIvNTE0MDUxNTc0LTA5OGJmOTliLTkyMmQtNGNlYy1hZmYxLTA1MTE5MjM3ZmNmOC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMTEzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTExM1QxOTAyNDZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wY2QxMzk5YzBmNDgxNmVlMmMwMDM5MDdlNGRjN2ExMTI1MDg4ZGE0YTk3NGExNjRkNmY1NDI0NTk4ZTdmM2RmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.-gkyqD2-HKEwhBt2WtuLlZckhIYIodFwL-FJVx7T0FQ" 
 /><br>
 
@@ -141,10 +142,12 @@ even if it takes a few _**git commit -m "final-final-for-real"**_ along the way 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" 
 />
 <br>
+<br>
 
-***
-<div align="center">
-  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=euEndro&theme=dark&border_radius=10&locale=pt&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-</div>
+### 📊 Some stats
+<a>
+  <img height=200 align="left" src="https://streak-stats.demolab.com?user=euEndro&theme=radical&border_radius=10&locale=pt&date_format=j%20M%5B%20Y%5D" />
+</a>
+<a>
+  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euEndro&layout=compact&theme=radical" />
+</a>
