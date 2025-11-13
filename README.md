@@ -145,8 +145,8 @@ even if it takes a few _**git commit -m "final-final-for-real"**_ along the way 
 <br>
 
 ### 📊 Some stats
-<a>
-  <img height=200 align="left" src="https://streak-stats.demolab.com?user=euEndro&theme=radical&border_radius=10&locale=pt&date_format=j%20M%5B%20Y%5D" />
+<a href="https://git.io/streak-stats">
+  <img height=200 align="left" src="https://streak-stats.demolab.com?user=euEndro&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </a>
 <a>
   <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euEndro&layout=compact&theme=radical" />
