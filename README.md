@@ -3,7 +3,7 @@
   alt="ANDREW DONI"
   title="ANDREW DONI"
   width="300px"
-  style="paadding-right: 50px;"
+  style="padding-right: 50px;"
   src="https://github.com/user-attachments/assets/098bf99b-922d-4cec-aff1-05119237fcf8" 
 />
 </a>
@@ -17,7 +17,10 @@ even if it takes a few _**git commit -m "final-final-for-real"**_ along the way 
 
 </a>
 <a href="mailto:andrew.doni.assis2@gmail.com">
-  <img alt="Static Badge" src="https://img.shields.io/badge/E--mail-red?style=for-the-badge&link=youtube.com">
+  <img align="left" alt="EMAIL" src="https://img.shields.io/badge/E--mail-red?style=for-the-badge&link=youtube.com">
+</a>
+<a href="www.linkedin.com/in/andrew-doni">
+  <img align="left" alt="LINKEDIN" src="https://img.shields.io/badge/Linked--in-blue?style=for-the-badge">
 </a>
 <br>
   
@@ -32,7 +35,7 @@ even if it takes a few _**git commit -m "final-final-for-real"**_ along the way 
   alt="JAVA"
   title="JAVA"
   width="30px"
-  style="paadding-right: 10px;"
+  style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 
@@ -41,7 +44,7 @@ even if it takes a few _**git commit -m "final-final-for-real"**_ along the way 
   alt="DART"
   title="DART"
   width="30px"
-  style="paadding-right: 10px;"
+  style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg"
 />
 
@@ -51,7 +54,7 @@ even if it takes a few _**git commit -m "final-final-for-real"**_ along the way 
   alt="DART"
   title="DART"
   width="30px"
-  style="paadding-right: 10px;"
+  style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />        
 
@@ -62,7 +65,7 @@ even if it takes a few _**git commit -m "final-final-for-real"**_ along the way 
   alt="SPRING BOOT"
   title="SPRING BOOT"
   width="30px"
-  style="paadding-right: 10px;"
+  style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
 />
 
@@ -71,7 +74,7 @@ even if it takes a few _**git commit -m "final-final-for-real"**_ along the way 
   alt="FLUTTER"
   title="FLUTTER"
   width="30px"
-  style="paadding-right: 10px;"
+  style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"
 />
 
@@ -82,7 +85,7 @@ even if it takes a few _**git commit -m "final-final-for-real"**_ along the way 
   alt="POSTGRESQL"
   title="POSTGRESQL"
   width="30px"
-  style="paadding-right: 10px;"
+  style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
 />
 
@@ -91,7 +94,7 @@ even if it takes a few _**git commit -m "final-final-for-real"**_ along the way 
   alt="MYSQL"
   title="MYSQL"
   width="30px"
-  style="paadding-right: 10px;"
+  style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
 />
           
@@ -102,7 +105,7 @@ even if it takes a few _**git commit -m "final-final-for-real"**_ along the way 
   alt="GIT"
   title="GIT"
   width="30px"
-  style="paadding-right: 10px;"
+  style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
 
@@ -111,7 +114,7 @@ even if it takes a few _**git commit -m "final-final-for-real"**_ along the way 
   alt="LINUX"
   title="LINUX"
   width="30px"
-  style="paadding-right: 10px;"
+  style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
 />
           
@@ -120,7 +123,7 @@ even if it takes a few _**git commit -m "final-final-for-real"**_ along the way 
   alt="DOCKER"
   title="DOCKER"
   width="30px"
-  style="paadding-right: 10px;"
+  style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
 />
           
@@ -129,7 +132,7 @@ even if it takes a few _**git commit -m "final-final-for-real"**_ along the way 
   alt="DBEAVER"
   title="DBEAVER"
   width="30px"
-  style="paadding-right: 10px;"
+  style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" 
 />
           
@@ -138,7 +141,7 @@ even if it takes a few _**git commit -m "final-final-for-real"**_ along the way 
   alt="POSTMAN"
   title="POSTMAN"
   width="30px"
-  style="paadding-right: 10px;"
+  style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
 />
 
@@ -147,7 +150,7 @@ even if it takes a few _**git commit -m "final-final-for-real"**_ along the way 
   alt="BASH"
   title="BASH"
   width="30px"
-  style="paadding-right: 10px;"
+  style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" 
 />
 <br>
