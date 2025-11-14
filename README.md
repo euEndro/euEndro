@@ -1,17 +1,26 @@
-<img   
+<a>
+<img
   alt="ANDREW DONI"
   title="ANDREW DONI"
   width="300px"
   style="paadding-right: 50px;"
   src="https://github.com/user-attachments/assets/098bf99b-922d-4cec-aff1-05119237fcf8" 
-/><br>
+/>
+</a>
+<br>
 
 👋 Hey there! I’m a <mark>**backend-focused developer**</mark> living between the terminal, some commits, and a strong cup of coffee ☕<br>
 Currently diving into **Spring Boot**, **Flutter** and **Code Architecture**, trying to make every project a bit cleaner and more functional.
 
 >💡 Naturally curious, I love figuring out why things work — and turning ideas into something real...</br>
-even if it takes a few _**git commit -m "final-final-for-real"**_ along the way 😅
+even if it takes a few _**git commit -m "final-final-for-real"**_ along the way 😅<br>
 
+</a>
+  <img align="left" alt="EMAIL" src="https://img.shields.io/badge/E--mail-red?style=for-the-badge&link=mailto:andrew.doni.assis2@gmail.com">
+<a>
+<img alt="Static Badge" src="https://img.shields.io/badge/E--mail-red?style=for-the-badge&link=youtube.com">
+<br>
+  
 ***
 
 ### 🌐 Languages and technologies i work with:
