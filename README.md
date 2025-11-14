@@ -19,7 +19,7 @@ even if it takes a few _**git commit -m "final-final-for-real"**_ along the way 
 <a href="mailto:andrew.doni.assis2@gmail.com">
   <img align="left" alt="EMAIL" src="https://img.shields.io/badge/E--mail-red?style=for-the-badge&link=youtube.com">
 </a>
-<a href="www.linkedin.com/in/andrew-doni">
+<a href="https://www.linkedin.com/in/andrew-doni">
   <img align="left" alt="LINKEDIN" src="https://img.shields.io/badge/Linked--in-blue?style=for-the-badge">
 </a>
 <br>
