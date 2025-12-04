@@ -17,10 +17,14 @@ even if it takes a few _**git commit -m "final-final-for-real"**_ along the way 
 
 </a>
 <a href="mailto:andrew.doni.assis2@gmail.com">
-  <img align="left" alt="EMAIL" src="https://img.shields.io/badge/E--mail-red?style=for-the-badge&link=youtube.com">
+  <img align="left" alt="EMAIL" src="https://img.shields.io/badge/E--mail-red?style=for-the-badge">
 </a>
 <a href="https://www.linkedin.com/in/andrew-doni">
   <img align="left" alt="LINKEDIN" src="https://img.shields.io/badge/Linked--in-blue?style=for-the-badge">
+</a>
+</a>
+<a href="https://euendro.github.io/Andrew-Portifolio/">
+  <img align="left" alt="PORTFOLIO" src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge">
 </a>
 <br>
   
