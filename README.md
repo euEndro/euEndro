@@ -23,7 +23,7 @@ even if it takes a few _**git commit -m "final-final-for-real"**_ along the way 
   <img align="left" alt="LINKEDIN" src="https://img.shields.io/badge/Linked--in-blue?style=for-the-badge">
 </a>
 </a>
-<a href="andrew.dlgroup.cloud">
+<a href="https://andrew.dlgroup.cloud">
   <img align="left" alt="PORTFOLIO" src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge">
 </a>
 <br>
