@@ -62,6 +62,15 @@ even if it takes a few _**git commit -m "final-final-for-real"**_ along the way 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />        
 
+<img
+  align="left"
+  alt="JAVASCRIPT"
+  title="JAVASCRIPT"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
 <!-- FRAMEWORKS -->
 
 <img
@@ -95,11 +104,11 @@ even if it takes a few _**git commit -m "final-final-for-real"**_ along the way 
 
 <img
   align="left"
-  alt="MYSQL"
-  title="MYSQL"
+  alt="REDIS"
+  title="REDIS"
   width="30px"
   style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg"
 />
           
 <!-- OTHERS -->
@@ -130,23 +139,14 @@ even if it takes a few _**git commit -m "final-final-for-real"**_ along the way 
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
 />
-          
-<img
+
+<img 
   align="left"
-  alt="DBEAVER"
-  title="DBEAVER"
+  alt="REACT"
+  title="REACT"
   width="30px"
   style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" 
-/>
-          
-<img
-  align="left"
-  alt="POSTMAN"
-  title="POSTMAN"
-  width="30px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 
 <img 
