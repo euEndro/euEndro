@@ -9,10 +9,10 @@
 </a>
 <br>
 
-👋 Hey there! I’m a <mark>**backend-focused developer**</mark> living between the terminal, some commits, and a strong cup of coffee ☕<br>
-Currently diving into **Spring Boot**, **Rest-API** and **Code Architecture**, trying to make every project a bit cleaner and more functional.
+👋 Sup. I’m a <mark>**Software Engineer**</mark> spending my time in between the terminal, some commits, and a strong cup of coffee ☕<br>
+Currently diving into **Server Architecture**, **Cloud** and **Code Architecture**, trying to make every project a bit cleaner and more functional.
 
->💡 Naturally curious, I love figuring out why things work — and turning ideas into something real...</br>
+>💡 Naturally curious, i love figuring out why things work — and turning ideas into something real...</br>
 even if it takes a few _**git commit -m "final-final-for-real"**_ along the way 😅<br>
 
 </a>
